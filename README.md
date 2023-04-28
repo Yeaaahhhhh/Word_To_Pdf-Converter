@@ -1,4 +1,7 @@
 # Pdf-Converter
+
+!!! Latest Update: Right now you can choose multiple files (docx) and convert all of them to pdf format.
+
 Input word doc, output pdf file
 
 
