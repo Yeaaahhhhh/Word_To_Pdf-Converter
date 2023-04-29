@@ -13,6 +13,6 @@ Then get into dist folder and double-click (execute) WordToPdf.exe
 Select one (currently version supported) .docx file and select the location you wanna
 save the pdf file. Then click convert.
 
-***Or If you have python installed, just run wordToPdf.py.***
-
+**Or If you have python installed, just run wordToPdf.py.**
+Note: You need pip install doc2pdf
 (Future update plan, use multiprocess to convert multiple .docx to pdf)
