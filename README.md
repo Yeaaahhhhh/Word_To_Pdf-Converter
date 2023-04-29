@@ -14,5 +14,7 @@ Select one (currently version supported) .docx file and select the location you 
 save the pdf file. Then click convert.
 
 **Or If you have python installed, just run wordToPdf.py.**
-Note: You need pip install doc2pdf
+
+Note: You need pip install docx2pdf
+
 (Future update plan, use multiprocess to convert multiple .docx to pdf)
